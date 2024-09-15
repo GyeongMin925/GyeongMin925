@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Open Souce SW Lab2!
 <!--
 **GyeongMin925/GyeongMin925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
